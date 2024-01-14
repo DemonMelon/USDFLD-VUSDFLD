@@ -7,7 +7,7 @@
 1) Copyright 2023 by CHENGGONG ZHANG all rights reserved. No part of this subroutine may be reproduced or
 use in any manner without written permission of the copyright owner.
 
-2) If permission is given by the authors, please cite XXXX-XXXX-XXXX-XXXX in future manuscripts.
+2) If permission is given by the authors, please cite https://doi.org/10.3390/ma17020414 in future manuscripts.
 
 3) Please always explain in your work or manuscript,
 that this USDFLD and VUSDFLD were originated from the previous publication. 
